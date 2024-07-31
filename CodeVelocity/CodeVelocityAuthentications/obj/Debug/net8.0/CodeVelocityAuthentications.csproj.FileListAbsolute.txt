@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\bin\Debug\net8.0\CodeVelocityAuthentications.exe
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\bin\Debug\net8.0\CodeVelocityAuthentications.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\bin\Debug\net8.0\CodeVelocityAuthentications.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\bin\Debug\net8.0\CodeVelocityAuthentications.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\bin\Debug\net8.0\CodeVelocityAuthentications.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\obj\Debug\net8.0\CodeVelocityAuthentications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\obj\Debug\net8.0\CodeVelocityAuthentications.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\obj\Debug\net8.0\CodeVelocityAuthentications.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\obj\Debug\net8.0\CodeVelocityAuthentications.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\obj\Debug\net8.0\CodeVelocityAuthentications.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\obj\Debug\net8.0\CodeVelocityAuthentications.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\obj\Debug\net8.0\refint\CodeVelocityAuthentications.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\obj\Debug\net8.0\CodeVelocityAuthentications.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\obj\Debug\net8.0\CodeVelocityAuthentications.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityAuthentications\obj\Debug\net8.0\ref\CodeVelocityAuthentications.dll

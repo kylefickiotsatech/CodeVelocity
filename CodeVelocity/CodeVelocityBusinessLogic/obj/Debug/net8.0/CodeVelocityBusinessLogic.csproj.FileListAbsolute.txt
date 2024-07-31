@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\bin\Debug\net8.0\CodeVelocityBusinessLogic.exe
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\bin\Debug\net8.0\CodeVelocityBusinessLogic.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\bin\Debug\net8.0\CodeVelocityBusinessLogic.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\bin\Debug\net8.0\CodeVelocityBusinessLogic.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\bin\Debug\net8.0\CodeVelocityBusinessLogic.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\obj\Debug\net8.0\CodeVelocityBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\obj\Debug\net8.0\CodeVelocityBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\obj\Debug\net8.0\CodeVelocityBusinessLogic.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\obj\Debug\net8.0\CodeVelocityBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\obj\Debug\net8.0\CodeVelocityBusinessLogic.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\obj\Debug\net8.0\CodeVelocityBusinessLogic.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\obj\Debug\net8.0\refint\CodeVelocityBusinessLogic.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\obj\Debug\net8.0\CodeVelocityBusinessLogic.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\obj\Debug\net8.0\CodeVelocityBusinessLogic.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityBusinessLogic\obj\Debug\net8.0\ref\CodeVelocityBusinessLogic.dll

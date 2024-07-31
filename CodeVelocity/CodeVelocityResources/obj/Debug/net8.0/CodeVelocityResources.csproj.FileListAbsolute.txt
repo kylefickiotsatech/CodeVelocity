@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\bin\Debug\net8.0\CodeVelocityResources.exe
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\bin\Debug\net8.0\CodeVelocityResources.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\bin\Debug\net8.0\CodeVelocityResources.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\bin\Debug\net8.0\CodeVelocityResources.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\bin\Debug\net8.0\CodeVelocityResources.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\obj\Debug\net8.0\CodeVelocityResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\obj\Debug\net8.0\CodeVelocityResources.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\obj\Debug\net8.0\CodeVelocityResources.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\obj\Debug\net8.0\CodeVelocityResources.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\obj\Debug\net8.0\CodeVelocityResources.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\obj\Debug\net8.0\CodeVelocityResources.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\obj\Debug\net8.0\refint\CodeVelocityResources.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\obj\Debug\net8.0\CodeVelocityResources.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\obj\Debug\net8.0\CodeVelocityResources.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityResources\obj\Debug\net8.0\ref\CodeVelocityResources.dll

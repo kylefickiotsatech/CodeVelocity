@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\bin\Debug\net8.0\CodeVelocityUIModels.exe
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\bin\Debug\net8.0\CodeVelocityUIModels.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\bin\Debug\net8.0\CodeVelocityUIModels.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\bin\Debug\net8.0\CodeVelocityUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\bin\Debug\net8.0\CodeVelocityUIModels.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\obj\Debug\net8.0\CodeVelocityUIModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\obj\Debug\net8.0\CodeVelocityUIModels.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\obj\Debug\net8.0\CodeVelocityUIModels.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\obj\Debug\net8.0\CodeVelocityUIModels.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\obj\Debug\net8.0\CodeVelocityUIModels.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\obj\Debug\net8.0\CodeVelocityUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\obj\Debug\net8.0\refint\CodeVelocityUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\obj\Debug\net8.0\CodeVelocityUIModels.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\obj\Debug\net8.0\CodeVelocityUIModels.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityUIModels\obj\Debug\net8.0\ref\CodeVelocityUIModels.dll

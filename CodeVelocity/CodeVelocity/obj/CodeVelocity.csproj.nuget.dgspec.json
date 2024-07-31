@@ -4,6 +4,402 @@
     "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocity\\CodeVelocity.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityAuthentications\\CodeVelocityAuthentications.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityAuthentications\\CodeVelocityAuthentications.csproj",
+        "projectName": "CodeVelocityAuthentications",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityAuthentications\\CodeVelocityAuthentications.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityAuthentications\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityBusinessLogic\\CodeVelocityBusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityBusinessLogic\\CodeVelocityBusinessLogic.csproj",
+        "projectName": "CodeVelocityBusinessLogic",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityBusinessLogic\\CodeVelocityBusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityBusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityDAL\\CodeVelocityDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityDAL\\CodeVelocityDAL.csproj",
+        "projectName": "CodeVelocityDAL",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityDAL\\CodeVelocityDAL.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityResources\\CodeVelocityResources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityResources\\CodeVelocityResources.csproj",
+        "projectName": "CodeVelocityResources",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityResources\\CodeVelocityResources.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityResources\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityServices\\CodeVelocityServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityServices\\CodeVelocityServices.csproj",
+        "projectName": "CodeVelocityServices",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityServices\\CodeVelocityServices.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityUIModels\\CodeVelocityUIModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityUIModels\\CodeVelocityUIModels.csproj",
+        "projectName": "CodeVelocityUIModels",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityUIModels\\CodeVelocityUIModels.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityUIModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocity\\CodeVelocity.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -33,7 +429,26 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityAuthentications\\CodeVelocityAuthentications.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityAuthentications\\CodeVelocityAuthentications.csproj"
+              },
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityBusinessLogic\\CodeVelocityBusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityBusinessLogic\\CodeVelocityBusinessLogic.csproj"
+              },
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityDAL\\CodeVelocityDAL.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityDAL\\CodeVelocityDAL.csproj"
+              },
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityResources\\CodeVelocityResources.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityResources\\CodeVelocityResources.csproj"
+              },
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityServices\\CodeVelocityServices.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityServices\\CodeVelocityServices.csproj"
+              },
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityUIModels\\CodeVelocityUIModels.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\CodeVelocity\\CodeVelocity\\CodeVelocityUIModels\\CodeVelocityUIModels.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

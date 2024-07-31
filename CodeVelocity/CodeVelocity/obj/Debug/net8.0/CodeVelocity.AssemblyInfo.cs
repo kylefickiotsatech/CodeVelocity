@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeVelocity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bd1bb2b5828c7a64e12f1c6328cc80a5ac3174e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76277310ecdb5854fe65cbd5dbfa1563fde471db")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeVelocity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeVelocity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

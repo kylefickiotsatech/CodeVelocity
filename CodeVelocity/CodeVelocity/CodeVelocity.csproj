@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CodeVelocityAuthentications\CodeVelocityAuthentications.csproj" />
+    <ProjectReference Include="..\CodeVelocityBusinessLogic\CodeVelocityBusinessLogic.csproj" />
+    <ProjectReference Include="..\CodeVelocityDAL\CodeVelocityDAL.csproj" />
+    <ProjectReference Include="..\CodeVelocityResources\CodeVelocityResources.csproj" />
+    <ProjectReference Include="..\CodeVelocityServices\CodeVelocityServices.csproj" />
+    <ProjectReference Include="..\CodeVelocityUIModels\CodeVelocityUIModels.csproj" />
+  </ItemGroup>
+
 </Project>

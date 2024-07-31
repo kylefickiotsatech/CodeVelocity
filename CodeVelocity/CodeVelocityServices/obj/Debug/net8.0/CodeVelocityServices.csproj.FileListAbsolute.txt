@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\bin\Debug\net8.0\CodeVelocityServices.exe
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\bin\Debug\net8.0\CodeVelocityServices.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\bin\Debug\net8.0\CodeVelocityServices.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\bin\Debug\net8.0\CodeVelocityServices.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\bin\Debug\net8.0\CodeVelocityServices.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\obj\Debug\net8.0\CodeVelocityServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\obj\Debug\net8.0\CodeVelocityServices.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\obj\Debug\net8.0\CodeVelocityServices.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\obj\Debug\net8.0\CodeVelocityServices.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\obj\Debug\net8.0\CodeVelocityServices.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\obj\Debug\net8.0\CodeVelocityServices.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\obj\Debug\net8.0\refint\CodeVelocityServices.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\obj\Debug\net8.0\CodeVelocityServices.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\obj\Debug\net8.0\CodeVelocityServices.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityServices\obj\Debug\net8.0\ref\CodeVelocityServices.dll

@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\bin\Debug\net8.0\CodeVelocityDAL.exe
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\bin\Debug\net8.0\CodeVelocityDAL.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\bin\Debug\net8.0\CodeVelocityDAL.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\bin\Debug\net8.0\CodeVelocityDAL.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\bin\Debug\net8.0\CodeVelocityDAL.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\obj\Debug\net8.0\CodeVelocityDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\obj\Debug\net8.0\CodeVelocityDAL.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\obj\Debug\net8.0\CodeVelocityDAL.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\obj\Debug\net8.0\CodeVelocityDAL.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\obj\Debug\net8.0\CodeVelocityDAL.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\obj\Debug\net8.0\CodeVelocityDAL.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\obj\Debug\net8.0\refint\CodeVelocityDAL.dll
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\obj\Debug\net8.0\CodeVelocityDAL.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\obj\Debug\net8.0\CodeVelocityDAL.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\CodeVelocity\CodeVelocity\CodeVelocityDAL\obj\Debug\net8.0\ref\CodeVelocityDAL.dll

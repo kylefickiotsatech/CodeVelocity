@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeVelocity", "CodeVelocity\CodeVelocity.csproj", "{29B49115-9C13-42C1-8782-6E0809CBDECD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeVelocity", "CodeVelocity\CodeVelocity.csproj", "{29B49115-9C13-42C1-8782-6E0809CBDECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeVelocityDAL", "CodeVelocityDAL\CodeVelocityDAL.csproj", "{4E98A997-23C9-4CCA-A127-E5A0AE16705B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeVelocityAuthentications", "CodeVelocityAuthentications\CodeVelocityAuthentications.csproj", "{F9F57138-0E47-4571-8D12-2D742C2EF8FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeVelocityBusinessLogic", "CodeVelocityBusinessLogic\CodeVelocityBusinessLogic.csproj", "{48C09DD1-5316-4619-88A8-A955B8B90CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeVelocityServices", "CodeVelocityServices\CodeVelocityServices.csproj", "{21B9581F-1557-410D-8828-E977952FEB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeVelocityUIModels", "CodeVelocityUIModels\CodeVelocityUIModels.csproj", "{7780642A-2376-4110-A71B-5CE46EF60F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeVelocityResources", "CodeVelocityResources\CodeVelocityResources.csproj", "{6F134593-04E1-4669-99C1-083DCD5DE1FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +27,30 @@ Global
 		{29B49115-9C13-42C1-8782-6E0809CBDECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29B49115-9C13-42C1-8782-6E0809CBDECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29B49115-9C13-42C1-8782-6E0809CBDECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E98A997-23C9-4CCA-A127-E5A0AE16705B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E98A997-23C9-4CCA-A127-E5A0AE16705B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E98A997-23C9-4CCA-A127-E5A0AE16705B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E98A997-23C9-4CCA-A127-E5A0AE16705B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F57138-0E47-4571-8D12-2D742C2EF8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F57138-0E47-4571-8D12-2D742C2EF8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F57138-0E47-4571-8D12-2D742C2EF8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F57138-0E47-4571-8D12-2D742C2EF8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C09DD1-5316-4619-88A8-A955B8B90CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C09DD1-5316-4619-88A8-A955B8B90CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C09DD1-5316-4619-88A8-A955B8B90CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C09DD1-5316-4619-88A8-A955B8B90CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B9581F-1557-410D-8828-E977952FEB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B9581F-1557-410D-8828-E977952FEB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B9581F-1557-410D-8828-E977952FEB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B9581F-1557-410D-8828-E977952FEB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7780642A-2376-4110-A71B-5CE46EF60F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7780642A-2376-4110-A71B-5CE46EF60F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7780642A-2376-4110-A71B-5CE46EF60F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7780642A-2376-4110-A71B-5CE46EF60F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F134593-04E1-4669-99C1-083DCD5DE1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F134593-04E1-4669-99C1-083DCD5DE1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F134593-04E1-4669-99C1-083DCD5DE1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F134593-04E1-4669-99C1-083DCD5DE1FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
